@@ -16,4 +16,3 @@ jobs:
           aws_region: eu-west-2
           function_name: test_git_update
           source: lambda_function.py
-          runtime: python3.7
